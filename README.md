@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Chase Hughes! (@chadog6)
+- 👋 Hi, I’m Chase Hughes! Sr. Cloud Security Engineer at Entrata.
 
