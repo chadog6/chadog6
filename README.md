@@ -1,2 +1,1 @@
-- Hi, I’m Chase Hughes! Sr. Cloud Security Engineer at Entrata. Thanks for stopping by. 
-
+- Hi, I’m Chase Hughes! Sr. Cloud Security Engineer at Entrata.
