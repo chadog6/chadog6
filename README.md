@@ -48,7 +48,7 @@
     <td align="center" width="270">
       <br>
       <sub><b>OPERATIONS</b></sub><br><br>
-      <b>Blue Team &middot; SOC</b>
+      <b>Cloud Security &middot; SOC<br>Blue Team &middot; SecOps</b>
       <br><br>
     </td>
   </tr>
@@ -95,13 +95,37 @@
 
 <div align="center">
 
-## Certifications
+## Tools in Scope
 
-<a href="https://www.credly.com/users/chase-hughes"><img src="https://img.shields.io/badge/Verify_on_Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly"/></a>
+<br>
 
-<br><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
 
-<marquee behavior="scroll" direction="left" scrollamount="2" scrolldelay="30"><a href="https://www.credly.com/users/chase-hughes"><img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="160" alt="AWS Security – Specialty"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/chase-hughes"><img src="https://images.credly.com/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="160" alt="AWS Advanced Networking – Specialty"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/chase-hughes"><img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="160" alt="AWS Solutions Architect – Professional"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/chase-hughes"><img src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="160" alt="HashiCorp Terraform Associate"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/chase-hughes"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="160" alt="AWS Developer – Associate"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/chase-hughes"><img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="160" alt="AWS SysOps Administrator – Associate"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/chase-hughes"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="160" alt="AWS Cloud Practitioner"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/chase-hughes"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="160" alt="AWS Solutions Architect – Associate"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</marquee>
+<img src="https://img.shields.io/badge/Wiz-21DA83?style=for-the-badge&logoColor=white" alt="Wiz" />
+<img src="https://img.shields.io/badge/SentinelOne-5E2D91?style=for-the-badge&logoColor=white" alt="SentinelOne" />
+<img src="https://img.shields.io/badge/Tenable-00A1E0?style=for-the-badge&logoColor=white" alt="Tenable" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/1Password-3B66BC?style=for-the-badge&logo=1password&logoColor=white" alt="1Password" />
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+<img src="https://img.shields.io/badge/Sumo_Logic-003CE7?style=for-the-badge&logo=sumologic&logoColor=white" alt="Sumo Logic" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white" alt="PagerDuty" />
+<img src="https://img.shields.io/badge/FireHydrant-FF4F3F?style=for-the-badge&logoColor=white" alt="FireHydrant" />
+
+<img src="https://img.shields.io/badge/GitHub_Enterprise-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Enterprise" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Rundeck-F73F39?style=for-the-badge&logo=rundeck&logoColor=white" alt="Rundeck" />
+<img src="https://img.shields.io/badge/Torq-5D4FFF?style=for-the-badge&logoColor=white" alt="Torq" />
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=D4A574" alt="Anthropic" />
+<img src="https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=ffffff" alt="Cursor" />
 
 </div>
 
@@ -113,67 +137,7 @@
 
 <div align="center">
 
-## Tech Arsenal
-
-<br>
-
-**`CLOUD & INFRASTRUCTURE`**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-<br>
-
-**`SECURITY & COMPLIANCE`**
-
-![Wiz](https://img.shields.io/badge/Wiz-21C55D?style=for-the-badge&logoColor=white)
-![SentinelOne](https://img.shields.io/badge/SentinelOne-6C2EB9?style=for-the-badge&logoColor=white)
-![Tenable](https://img.shields.io/badge/Tenable-001C33?style=for-the-badge&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![1Password](https://img.shields.io/badge/1Password-0094F5?style=for-the-badge&logo=1password&logoColor=white)
-
-<br>
-
-**`OBSERVABILITY & OPERATIONS`**
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Sumo Logic](https://img.shields.io/badge/Sumo_Logic-000099?style=for-the-badge&logo=sumologic&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
-![FireHydrant](https://img.shields.io/badge/FireHydrant-FF6B35?style=for-the-badge&logoColor=white)
-
-<br>
-
-**`DEVOPS & COLLABORATION`**
-
-![GitHub Enterprise](https://img.shields.io/badge/GitHub_Enterprise-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Rundeck](https://img.shields.io/badge/Rundeck-F73F39?style=for-the-badge&logo=rundeck&logoColor=white)
-![Torq](https://img.shields.io/badge/Torq-00B4AB?style=for-the-badge&logoColor=white)
-
-<br>
-
-**`AI & DEVELOPMENT`**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <br>
 
