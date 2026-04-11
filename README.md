@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Cloud+Security+%E2%80%A2+SOC+%E2%80%A2+Blue+Team+%E2%80%A2+Defense+in+Depth;Securing+the+Cloud%2C+One+Layer+at+a+Time;AWS+%E2%80%A2+Terraform+%E2%80%A2+Infrastructure+as+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Cloud+Security+%E2%80%A2+SOC+%E2%80%A2+Blue+Team+%E2%80%A2+Defense+in+Depth;Securing+the+Cloud%2C+One+Layer+at+a+Time;AWS+%E2%80%A2+Terraform+%E2%80%A2+Infrastructure+as+Code" alt="Typing SVG" />
 </a>
 
 <br><br>
