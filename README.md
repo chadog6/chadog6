@@ -10,7 +10,7 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chase-hughes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chase-k-hughes/)
 &nbsp;
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/chase-hughes)
 &nbsp;
@@ -142,8 +142,6 @@
 <br>
 
 <a href="https://github.com/chadog6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chadog6&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chadog6&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </a>
 
