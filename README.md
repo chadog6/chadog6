@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:001d3d,100:003566&height=250&section=header&text=Chase%20Hughes&fontColor=58a6ff&fontSize=55&fontAlignY=32&desc=Sr.%20Cloud%20Security%20Engineer%20%E2%80%A2%20Entrata&descColor=8b949e&descSize=18&descAlignY=52&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:001d3d,100:003566&height=250&section=header&text=Chase%20Hughes&fontColor=58a6ff&fontSize=55&fontAlignY=32&desc=Staff%20Platform%20Security%20Engineer%20%E2%80%A2%20Entrata&descColor=8b949e&descSize=18&descAlignY=52&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -36,7 +36,7 @@
     <td align="center" width="270">
       <br>
       <sub><b>ROLE</b></sub><br><br>
-      <b>Sr. Cloud Security<br>Engineer</b>
+      <b>Staff Platform Security<br>Engineer</b>
       <br><br>
     </td>
     <td align="center" width="270">
