@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Cloud+Security+%E2%80%A2+SOC+%E2%80%A2+Blue+Team+%E2%80%A2+Defense+in+Depth;Securing+the+Cloud%2C+One+Layer+at+a+Time;AWS+%E2%80%A2+Terraform+%E2%80%A2+Infrastructure+as+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Cloud+Security+%E2%80%A2+SOC+%E2%80%A2+Blue+Team+%E2%80%A2+Defense+in+Depth;AI+Red+Teaming+%E2%80%A2+Adversarial+Testing;Securing+the+Cloud%2C+One+Layer+at+a+Time;AWS+%E2%80%A2+Terraform+%E2%80%A2+Infrastructure+as+Code" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -48,7 +48,7 @@
     <td align="center" width="270">
       <br>
       <sub><b>OPERATIONS</b></sub><br><br>
-      <b>Cloud Security &middot; SOC<br>Blue Team &middot; SecOps</b>
+      <b>Cloud Security &middot; SOC<br>Blue Team &middot; SecOps<br>AI Red Teaming</b>
       <br><br>
     </td>
   </tr>
@@ -58,28 +58,39 @@
 
 <table>
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="270">
       <br>
       <b>Cloud Security</b><br>
       <sub>Architecture & Engineering</sub>
       <br><br>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="270">
       <br>
       <b>Detection & Response</b><br>
       <sub>SOC Operations</sub>
       <br><br>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="270">
       <br>
       <b>IaC Security</b><br>
       <sub>Terraform & Automation</sub>
       <br><br>
     </td>
-    <td align="center" width="200">
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="270">
       <br>
       <b>Network Defense</b><br>
       <sub>Architecture & Segmentation</sub>
+      <br><br>
+    </td>
+    <td align="center" width="270">
+      <br>
+      <b>AI Red Teaming</b><br>
+      <sub>Adversarial Testing</sub>
       <br><br>
     </td>
   </tr>
@@ -123,6 +134,7 @@
 <img src="https://img.shields.io/badge/Rundeck-F73F39?style=for-the-badge&logo=rundeck&logoColor=white" alt="Rundeck" />
 <img src="https://img.shields.io/badge/Torq-5D4FFF?style=for-the-badge&logoColor=white" alt="Torq" />
 
+<img src="https://img.shields.io/badge/AI_Red_Teaming-1f6feb?style=for-the-badge&logoColor=white" alt="AI Red Teaming" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=D4A574" alt="Anthropic" />
 <img src="https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=ffffff" alt="Cursor" />
@@ -145,10 +157,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chadog6&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </a>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chadog6&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="95%" alt="Contribution Graph"/>
-
 </div>
 
 <br>
@@ -161,7 +169,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=8000&color=8b949e&center=true&vCenter=true&repeat=true&width=550&height=30&lines=Covering+all+things+Cloud+Security+%26+SOC+at+Entrata." alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=8000&color=8b949e&center=true&vCenter=true&repeat=true&width=780&height=30&lines=Covering+Cloud+Security%2C+SOC+%26+AI+Red+Teaming+at+Entrata." alt="Footer" />
 
 <br>
 
